@@ -7,9 +7,6 @@ SkyDraw is a project that utilizes hand gestures for controlling and interacting
     Your browser does not support the video tag.
 </video>
 
-![SkyDraw-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3c608ddb-eba6-427a-95aa-dc3868707d3c)
-
-
 ## Features
 
 - Hand gesture recognition using Mediapipe framework
