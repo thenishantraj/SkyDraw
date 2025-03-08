@@ -19,8 +19,7 @@ SkyDraw is a project that utilizes hand gestures for controlling and interacting
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/](https://github.com/thenishantraj/SkyDraw)
-
+   git clone https://github.com/thenishantraj/SkyDraw.git
    ```
 
 2. Install the required packages:
@@ -59,7 +58,7 @@ Contributions are welcome! Here's how you can contribute:
 
 ## Creators
 
-[Nishant Raj](https://www.linkedin.com/in/the-nishant-raj-82972b208/).
+[Nishant Raj](https://www.linkedin.com/in/the-nishant-raj-82972b208/)
 
 ## License
 
