@@ -59,7 +59,7 @@ Contributions are welcome! Here's how you can contribute:
 
 ## Creators
 
-- Nishant Raj
+[Nishant Raj](https://www.linkedin.com/in/the-nishant-raj-82972b208/).
 
 ## License
 
